@@ -1,0 +1,8 @@
+main: co.uk.forgottenislands.lobby.Lobby
+name: LobbyServer
+version: 1.0
+depend: [Vault]
+commands:
+    lobby:
+        description: lobby
+        usage: Use /lobby to use the commands
